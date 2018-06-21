@@ -1,0 +1,14 @@
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\FriendOrganiser.DataAccess.dll
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\FriendOrganiser.DataAccess.pdb
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\FriendOrganiser.Model.dll
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\FriendOrganiser.Model.pdb
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\obj\Debug\FriendOrganiser.DataAccess.csprojResolveAssemblyReference.cache
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\obj\Debug\FriendOrganiser.DataAccess.dll
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\obj\Debug\FriendOrganiser.DataAccess.pdb
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\FriendOrganiser.DataAccess.dll.config
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\EntityFramework.dll
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\EntityFramework.xml
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\obj\Debug\FriendOrganiser.DataAccess.Migrations.InitialDatabase.resources
+c:\Projects\FriendOrganiser\FriendOrganiser.DataAccess\obj\Debug\FriendOrganiser.DataAccess.csproj.GenerateResource.Cache
